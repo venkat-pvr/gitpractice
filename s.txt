@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hey!
 =======
 hey!how are you?
 >>>>>>> parent of bacee2a... new folder added#
+=======
+hey!how are you?
+>>>>>>> 82ef53e042038ebbd71b1ccaccfe1a2d7e2b4f0f
